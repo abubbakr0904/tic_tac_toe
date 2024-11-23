@@ -18,6 +18,7 @@ class _TicTacToeScreenState extends State<TicTacToeScreen> {
   List<String> board = List.filled(9, '');
   bool isXTurn = true;
 
+
   int x = 0 ;
   int o = 0;
 
